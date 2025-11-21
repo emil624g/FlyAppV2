@@ -1,5 +1,5 @@
-from src.kiwi import kiwiData
+from src.aviation import aviation
 
-data = kiwiData()
+data = aviation()
 
 print(data)
